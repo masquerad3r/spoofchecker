@@ -1,4 +1,4 @@
-# spoof-checker
+# spoofchecker
 ## Overview
 The script simply checks whether a given domain can be spoofed or not. The program checks SPF and DMARC records for weak configurations that potentially allow spoofing.
 
